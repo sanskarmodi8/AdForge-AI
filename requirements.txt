@@ -1,0 +1,39 @@
+# Data Handling
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+
+# Core libraries
+Pillow
+opencv-python
+datasets
+transformers
+diffusers
+accelerate
+safetensors
+torch
+
+# Experiment Tracking and pipeline versioning
+mlflow
+dvc
+
+# backend
+fastapi
+uvicorn
+
+# Utils
+jupyter
+loguru
+notebook
+ipykernel
+python-box
+pyYAML
+ensure
+python-dotenv
+tqdm
+
+# code formatting
+isort
+black[jupyter]
