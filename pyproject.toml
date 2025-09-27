@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "AdForge-AI"
+version = "0.0.0"
+description = "AdForge AI generates, scores, and ranks marketing ads to help teams find their best-performing creatives instantly."
+authors = [{ name = "Sanskar Modi", email = "sansyprog8@gmail.com" }]
+readme = "README.md"
+license = { text = "MIT License" }
+dependencies = []
+
+[project.urls]
+"Bug Tracker" = "https://github.com/sanskarmodi8/AdForge-AI/issues"
+
+[tool.isort]
+profile = "black"
